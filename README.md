@@ -1,5 +1,5 @@
 # <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=40&duration=4000&pause=1000&color=800000&center=true&vCenter=true&random=false&width=600&height=100&lines=Newton+Brian+Nyongesa;Code+Runner+%F0%9F%8F%83%E2%80%8D%E2%99%82%EF%B8%8F;Frontend+Developer+%7C+Nairobi%2C+Kenya" alt="Typing SVG" />
+  Newton Brian Nyongesa
 </div>
 
 <div align="center">
@@ -129,6 +129,8 @@ I'm a passionate frontend developer based in Nairobi, Kenya, with a knack for cr
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=800000&center=true&vCenter=true&width=600&lines=Consistency+is+key+in+both+coding+and+running!+%F0%9F%8F%83%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/newtvn/newtvn/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/newtvn/newtvn/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/newtvn/newtvn/output/github-snake.svg" />
+</picture>
