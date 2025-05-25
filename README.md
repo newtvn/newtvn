@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=25&duration=3000&pause=1000&color=800000&center=true&vCenter=true&width=600&lines=Passionate+Frontend+Developer+%7C+Problem+Solver+%7C+Trail+Runner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=25&duration=3000&pause=1000&color=800000&center=true&vCenter=true&width=600&lines= Passionate+Frontend+Developer+%7C+Problem+Solver+%7C+Trail+Runner" alt="Typing SVG" />
 </div>
 
 I'm a passionate frontend developer based in Nairobi, Kenya, with a knack for creating intuitive and engaging user experiences. When I'm not crafting clean code, you'll find me hitting the trails – because solving problems requires both mental and physical endurance!
@@ -22,7 +22,7 @@ I'm a passionate frontend developer based in Nairobi, Kenya, with a knack for cr
 
 ### 🎯 Current Focus
 - 🔭 Contributing to [openchs](https://github.com/openchlai/General_Documenation), an exciting open source project
-- 💡 Specialized in **React**, **Python**, **Vue**, and **Django** ecosystems
+- 💡 Specialized in **React**, **Python**, **Vue**, **Django**, and **UI/UX design** ecosystems
 - 📫 Reach out to me at **newtvnbrian@gmail.com**
 - 🌱 Always learning, always building, always running!
 
