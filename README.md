@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-</div>
-
-<div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="350" alt="Coding Animation">
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=800000&center=true&vCenter=true&repeat=false&width=500&lines=Running+code+by+day%2C+running+trails+by+night+%E2%9A%A1" alt="Typing SVG" />
@@ -119,14 +115,6 @@ I'm a passionate frontend developer based in Nairobi, Kenya, with a knack for cr
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=newtvn&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=newtvn&color=800000&style=flat-square" alt="Profile Views" />
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=800000&center=true&vCenter=true&width=600&lines=Consistency+is+key+in+both+coding+and+running!+%F0%9F%8F%83%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 <picture>
