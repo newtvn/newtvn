@@ -1,5 +1,5 @@
 # <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&height=100&lines=Newton+Brian+Nyongesa;Code+Runner+%F0%9F%8F%83%E2%80%8D%E2%99%82%EF%B8%8F;Frontend+Developer+%7C+Nairobi%2C+Kenya" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=40&duration=4000&pause=1000&color=800000&center=true&vCenter=true&random=false&width=600&height=100&lines=Newton+Brian+Nyongesa;Code+Runner+%F0%9F%8F%83%E2%80%8D%E2%99%82%EF%B8%8F;Frontend+Developer+%7C+Nairobi%2C+Kenya" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -9,19 +9,19 @@
 <div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="350" alt="Coding Animation">
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&repeat=false&width=500&lines=Running+code+by+day%2C+running+trails+by+night+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=800000&center=true&vCenter=true&repeat=false&width=500&lines=Running+code+by+day%2C+running+trails+by+night+%E2%9A%A1" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+Frontend+Developer+%7C+Problem+Solver+%7C+Trail+Runner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=25&duration=3000&pause=1000&color=800000&center=true&vCenter=true&width=600&lines=Passionate+Frontend+Developer+%7C+Problem+Solver+%7C+Trail+Runner" alt="Typing SVG" />
 </div>
 
 I'm a passionate frontend developer based in Nairobi, Kenya, with a knack for creating intuitive and engaging user experiences. When I'm not crafting clean code, you'll find me hitting the trails – because solving problems requires both mental and physical endurance!
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=newtvn&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=newtvn&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
 ### 🎯 Current Focus
@@ -53,7 +53,7 @@ I'm a passionate frontend developer based in Nairobi, Kenya, with a knack for cr
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Technologies+I+Work+With" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=25&duration=3000&pause=1000&color=800000&center=true&vCenter=true&width=600&lines=Technologies+I+Work+With" alt="Typing SVG" />
 </div>
 
 ### Frontend
@@ -109,24 +109,24 @@ I'm a passionate frontend developer based in Nairobi, Kenya, with a knack for cr
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=newtvn&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=newtvn&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=newtvn&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=newtvn&theme=dark" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtvn&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtvn&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=newtvn&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=newtvn&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=newtvn&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=newtvn&color=800000&style=flat-square" alt="Profile Views" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Consistency+is+key+in+both+coding+and+running!+%F0%9F%8F%83%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=800000&center=true&vCenter=true&width=600&lines=Consistency+is+key+in+both+coding+and+running!+%F0%9F%8F%83%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 <div align="center">
