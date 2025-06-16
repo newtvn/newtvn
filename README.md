@@ -9,10 +9,10 @@
 ## 👨‍💻 About Me
 Hi, I’m Newton — a **Frontend Engineer**, **UI/UX Designer**, and **Developer at BITZ-ITC**, based in Nairobi 🇰🇪.
 
-I craft **user-first**, **scalable** software systems and lead innovation at **Prolithica** and **Word and Learn**. I thrive at the intersection of design, data, and development — and build for both **impact and elegance**.
+I craft **user-first**, **scalable** software systems and lead innovation at **Prolithica** , **BITZ-ITC** and **Word and Learn**. I thrive at the intersection of design, data, and development — and build for both **impact and elegance**.
 
-- 🔍 Focus: AI interfaces, UX for accessibility, graph data visualization, mobile-first design
-- 🛠️ Stack: **React**, **Vue**, **Django**, **Neo4j**, **Figma**
+- 🔍 Focus: AI interfaces, UX for accessibility, graph data visualization, mobile-first design  
+- 🛠️ Stack: **React**, **Vue**, **Django**, **Neo4j**, **Figma**  
 - 📫 Reach me at: **newtvnbrian@gmail.com**
 
 ---
@@ -21,20 +21,21 @@ I craft **user-first**, **scalable** software systems and lead innovation at **P
 
 | 🔗 Project | 📝 Description | 🧰 Tech Stack |
 |-----------|----------------|---------------|
-| **[Safetayaro](https://newtvn.github.io/Safetayaro/)** | Web app for tracking unsafe food via user reports and dashboards. <br>🚨 *Real-time alerts + community data validation* | `Vue`, `Firebase`, `Tailwind` |
+| **[OPENCHS](https://github.com/openchlai/General_Documenation)** | Frontend and design lead for a cross-border Community Health System used in Kenya, Uganda, Tanzania, and Lesotho. <br>🩺 *Designed & developed mission-critical modules used by real frontline health workers* | `Vue`, `Vuetify`, `TypeScript`, `REST`, `Figma` |
+| **[Safetayaro](https://newtvn.github.io/Safetayaro/)** | Food safety monitoring platform with user-driven risk alerts. <br>🚨 *Real-time tracking & community validation* | `Vue`, `Firebase`, `Tailwind` |
 | **[Secure Me](https://github.com/newtvn/secureme)** | Crime data analysis tool using graph theory and Neo4j. <br>📊 *Graph-powered crime pattern detection* | `Neo4j`, `Python`, `Flask` |
 | **[HeartCall](https://github.com/newtvn/HeartCall)** | Emergency response app with geolocation and contact routing. <br>🚑 *Built with first-responder UX in mind* | `React Native`, `Node.js`, `Express` |
-| **[LittleVisions](https://github.com/newtvn/littlevisions)** | AI-powered storytelling for kids. <br>🎨 *Blends GPT with child-safe UX flows* | `OpenAI`, `Python`, `Figma` |
+| **[LittleVisions](https://github.com/newtvn/littlevisions)** | AI-powered storytelling for children. <br>🎨 *Blends GPT with child-safe UX flows* | `OpenAI`, `Python`, `Figma` |
 | **[UrbanRush](https://github.com/newtvn/UrbanRush)** | 3D simulation game with real-world Kenyan city assets. <br>🎮 *Custom-built in Unity for game physics* | `Unity`, `C#`, `Blender` |
 
 ---
 
 ## 💼 Experience Snapshot
-- 🎨 **UI/UX Designer** @ Bitz.itc
-- 💻 **Developer** @ ProDG
-- 🧠 **CEO & Product Lead** @ Word and Learn
-- 📊 **Market Research Extern** @ Beats by Dre
-- 💻 **Full Stack Dev Intern** @ Sky World Ltd.
+- 🎨 **UI/UX Designer** @ Bitz.itc  
+- 💻 **Developer** @ ProDG  
+- 🧠 **CEO & Product Lead** @ Word and Learn  
+- 📊 **Market Research Extern** @ Beats by Dre  
+- 💻 **Full Stack Dev Intern** @ Sky World Ltd.  
 - 🛠️ **Project Manager** @ SCESA (Tech Community)
 
 ---
@@ -71,9 +72,9 @@ I craft **user-first**, **scalable** software systems and lead innovation at **P
 
 ## 🏆 Achievements
 
-- 🥈 Oracle Hackathon Runner-Up
-- 🎓 Cisco Web Dev & DevNet Certifications
-- 🚀 A2SV Hackathon Semi-Finalist
+- 🥈 Oracle Hackathon Runner-Up  
+- 🎓 Cisco Web Dev & DevNet Certifications  
+- 🚀 A2SV Hackathon Semi-Finalist  
 - 🧪 National Research Fund Finalist (2024)
 
 ---
