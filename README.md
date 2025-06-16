@@ -1,13 +1,13 @@
 <h1 align="center">Newton Brian Nyongesa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F02E2E&center=true&vCenter=true&width=600&lines=Engineer.+UI%2FUX+Designer.+Visionary."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F02E2E&center=true&vCenter=true&width=600&lines=CEO.+UI%2FUX+Designer.+Frontend Developer."/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-Hi, I’m Newton — a **Frontend Engineer**, **UI/UX Designer**, and **Developer at ProDG**, based in Nairobi, Kenya 🇰🇪.
+Hi, I’m Newton — a **Frontend Engineer**, **UI/UX Designer**, and **Developer at BITZ-ITC**, based in Nairobi, Kenya 🇰🇪.
 
 Currently building user-first web & mobile applications while also leading innovation at **Prolithica** and **Word and Learn**.
 
