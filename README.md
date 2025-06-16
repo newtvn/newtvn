@@ -1,40 +1,41 @@
 <h1 align="center">Newton Brian Nyongesa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F02E2E&center=true&vCenter=true&width=600&lines=CEO.+UI%2FUX+Designer.+Frontend Developer."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F02E2E&center=true&vCenter=true&width=600&lines=CEO.+UI%2FUX+Designer.+Frontend+Developer."/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-Hi, I’m Newton — a **Frontend Engineer**, **UI/UX Designer**, and **Developer at BITZ-ITC**, based in Nairobi, Kenya 🇰🇪.
+Hi, I’m Newton — a **Frontend Engineer**, **UI/UX Designer**, and **Developer at BITZ-ITC**, based in Nairobi 🇰🇪.
 
-Currently building user-first web & mobile applications while also leading innovation at **Prolithica** and **Word and Learn**.
+I craft **user-first**, **scalable** software systems and lead innovation at **Prolithica** and **Word and Learn**. I thrive at the intersection of design, data, and development — and build for both **impact and elegance**.
 
-- 🧠 Passionate about bridging tech with real-world problems
-- 🛠️ Specializing in **React**, **Vue**, **Django**, **Graph Databases**, and **UX Strategy**
+- 🔍 Focus: AI interfaces, UX for accessibility, graph data visualization, mobile-first design
+- 🛠️ Stack: **React**, **Vue**, **Django**, **Neo4j**, **Figma**
 - 📫 Reach me at: **newtvnbrian@gmail.com**
 
 ---
 
-## 📌 Projects Worth a Look
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Safetayaro](https://newtvn.github.io/Safetayaro/) | Food safety monitoring platform | `Vue`, `Firebase`, `Tailwind` |
-| [Secure Me](https://github.com/newtvn/secureme) | Crime analytics using Neo4j & ML | `Neo4j`, `Python`, `GraphML` |
-| [HeartCall](https://github.com/newtvn/HeartCall) | Emergency health app | `React Native`, `Node.js` |
-| [LittleVisions](https://github.com/newtvn/littlevisions) | AI storytelling for children | `Python`, `OpenAI API`, `Figma` |
-| [UrbanRush](https://github.com/newtvn/UrbanRush) | 3D simulation game | `Unity`, `C#`, `Blender` |
+## 🚀 Featured Projects
+
+| 🔗 Project | 📝 Description | 🧰 Tech Stack |
+|-----------|----------------|---------------|
+| **[Safetayaro](https://newtvn.github.io/Safetayaro/)** | Web app for tracking unsafe food via user reports and dashboards. <br>🚨 *Real-time alerts + community data validation* | `Vue`, `Firebase`, `Tailwind` |
+| **[Secure Me](https://github.com/newtvn/secureme)** | Crime data analysis tool using graph theory and Neo4j. <br>📊 *Graph-powered crime pattern detection* | `Neo4j`, `Python`, `Flask` |
+| **[HeartCall](https://github.com/newtvn/HeartCall)** | Emergency response app with geolocation and contact routing. <br>🚑 *Built with first-responder UX in mind* | `React Native`, `Node.js`, `Express` |
+| **[LittleVisions](https://github.com/newtvn/littlevisions)** | AI-powered storytelling for kids. <br>🎨 *Blends GPT with child-safe UX flows* | `OpenAI`, `Python`, `Figma` |
+| **[UrbanRush](https://github.com/newtvn/UrbanRush)** | 3D simulation game with real-world Kenyan city assets. <br>🎮 *Custom-built in Unity for game physics* | `Unity`, `C#`, `Blender` |
 
 ---
 
 ## 💼 Experience Snapshot
-- 🎨 **UI/UX Designer** at Bitz.itc
-- 💻 **Developer** at ProDG
-- 🧠 **CEO** at Word and Learn
-- 🔍 **Market Analyst Extern** at Beats by Dre
-- 🧑🏽‍💼 **Full Stack Intern** at Sky World Ltd.
-- 🎯 **Project Manager** at SCESA
+- 🎨 **UI/UX Designer** @ Bitz.itc
+- 💻 **Developer** @ ProDG
+- 🧠 **CEO & Product Lead** @ Word and Learn
+- 📊 **Market Research Extern** @ Beats by Dre
+- 💻 **Full Stack Dev Intern** @ Sky World Ltd.
+- 🛠️ **Project Manager** @ SCESA (Tech Community)
 
 ---
 
@@ -58,20 +59,22 @@ Currently building user-first web & mobile applications while also leading innov
 ---
 
 ## 📊 GitHub Insights
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=newtvn&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=newtvn&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=newtvn&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=newtvn&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtvn&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtvn&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🏆 Achievements
+
 - 🥈 Oracle Hackathon Runner-Up
-- 📡 Cisco DevNet & Web Development Cert.
+- 🎓 Cisco Web Dev & DevNet Certifications
 - 🚀 A2SV Hackathon Semi-Finalist
-- 🧪 National Research Fund Finalist 2024
+- 🧪 National Research Fund Finalist (2024)
 
 ---
 
