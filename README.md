@@ -32,7 +32,7 @@ I craft **user-first**, **scalable** software systems and lead innovation at **P
 
 ## 💼 Experience Snapshot
 - 🎨 **UI/UX Designer** @ Bitz.itc  
-- 💻 **Developer** @ ProDG  
+- 💻 **Developer** @ Prolithica  
 - 🧠 **CEO & Product Lead** @ Word and Learn  
 - 📊 **Market Research Extern** @ Beats by Dre  
 - 💻 **Full Stack Dev Intern** @ Sky World Ltd.  
