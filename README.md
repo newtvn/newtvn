@@ -13,7 +13,7 @@ I craft **user-first**, **scalable** software systems and lead innovation at **P
 
 - 🔍 Focus: AI interfaces, UX for accessibility, graph data visualization, mobile-first design  
 - 🛠️ Stack: **React**, **Vue**, **Django**, **Neo4j**, **Figma**  
-- 📫 Reach me at: **newtvnbrian@gmail.com**
+- 📫 Reach me at: **newtvnbrian@gmail.com** / **ceo@prolithica.com**
 
 ---
 
