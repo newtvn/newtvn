@@ -1,25 +1,19 @@
 <h1 align="center">Newton Brian Nyongesa</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F02E2E&center=true&vCenter=true&width=600&lines=CEO.+UI%2FUX+Designer.+Frontend+Developer."/>
-</p>
-
----
-
-## 👨‍💻 About Me
+##  About Me
 Hi, I’m Newton — a **Frontend Engineer**, **UI/UX Designer**, and **Developer at BITZ-ITC**, based in Nairobi 🇰🇪.
 
 I craft **user-first**, **scalable** software systems and lead innovation at **Prolithica** , **BITZ-ITC** and **Word and Learn**. I thrive at the intersection of design, data, and development — and build for both **impact and elegance**.
 
-- 🔍 Focus: AI interfaces, UX for accessibility, graph data visualization, mobile-first design  
-- 🛠️ Stack: **React**, **Vue**, **Django**, **Neo4j**, **Figma**  
-- 📫 Reach me at: **newtvnbrian@gmail.com** / **ceo@prolithica.com**
+-  Focus: AI interfaces, UX for accessibility, graph data visualization, mobile-first design  
+-  Stack: **React**, **Vue**, **Django**, **Neo4j**, **Figma**  
+-  Reach me at: **newtvnbrian@gmail.com** / **ceo@prolithica.com**
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-| 🔗 Project | 📝 Description | 🧰 Tech Stack |
+| 🔗 Project |  Description |  Tech Stack |
 |-----------|----------------|---------------|
 | **[OPENCHS](https://github.com/openchlai/General_Documenation)** | Frontend and design lead for a cross-border Community Health System used in Kenya, Uganda, Tanzania, and Lesotho. <br>🩺 *Designed & developed mission-critical modules used by real frontline health workers* | `Vue`, `Vuetify`, `TypeScript`, `REST`, `Figma` |
 | **[Safetayaro](https://newtvn.github.io/Safetayaro/)** | Food safety monitoring platform with user-driven risk alerts. <br>🚨 *Real-time tracking & community validation* | `Vue`, `Firebase`, `Tailwind` |
@@ -30,17 +24,17 @@ I craft **user-first**, **scalable** software systems and lead innovation at **P
 
 ---
 
-## 💼 Experience Snapshot
-- 🎨 **UI/UX Designer** @ Bitz.itc  
-- 💻 **Developer** @ Prolithica  
-- 🧠 **CEO & Product Lead** @ Word and Learn  
-- 📊 **Market Research Extern** @ Beats by Dre  
-- 💻 **Full Stack Dev Intern** @ Sky World Ltd.  
-- 🛠️ **Project Manager** @ SCESA (Tech Community)
+##  Experience Snapshot
+-  **UI/UX Designer** @ Bitz.itc  
+-  **Developer** @ Prolithica  
+-  **CEO & Product Lead** @ Word and Learn  
+-  **Market Research Extern** @ Beats by Dre  
+-  **Full Stack Dev Intern** @ Sky World Ltd.  
+-  **Project Manager** @ SCESA (Tech Community)
 
 ---
 
-## 🧰 Tech Toolbox
+##  Tech Toolbox
 
 **Frontend**  
 `React` · `Vue` · `TypeScript` · `Nuxt.js` · `Next.js` · `Tailwind` · `Bootstrap` · `Figma`
@@ -59,7 +53,7 @@ I craft **user-first**, **scalable** software systems and lead innovation at **P
 
 ---
 
-## 📊 GitHub Insights
+##  GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=newtvn&show_icons=true&theme=tokyonight" />
@@ -70,16 +64,16 @@ I craft **user-first**, **scalable** software systems and lead innovation at **P
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
-- 🥈 Oracle Hackathon Runner-Up  
-- 🎓 Cisco Web Dev & DevNet Certifications  
-- 🚀 A2SV Hackathon Semi-Finalist  
-- 🧪 National Research Fund Finalist (2024)
+-  Oracle Hackathon Runner-Up  
+-  Cisco Web Dev & DevNet Certifications  
+-  A2SV Hackathon Semi-Finalist  
+-  National Research Fund Finalist (2024)
 
 ---
 
-## 🌐 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="mailto:newtvnbrian@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
