@@ -6,7 +6,7 @@ I am a Frontend Engineer, UI/UX Designer, and Developer based in Nairobi, Kenya.
 
 ### Professional Profile
 
-I currently lead innovation at Prolithica, BITZ-ITC, and Word and Learn. I thrive at the intersection of design, data, and development, building software systems that prioritize impact, elegance, and user-first principles.
+I currently lead innovation at Prolithica, AI4AFRICA, AN-PBO , and Word and Learn. I thrive at the intersection of design, data, and development, building software systems that prioritize impact, elegance, and user-first principles.
 
 ### Core Services
 
