@@ -18,11 +18,11 @@ I currently lead innovation at Prolithica, AI4AFRICA, AN-PBO , and Word and Lear
 
 ### Professional Experience
 
-**Developer @ BITZ-ITC:** I serve as a lead developer, focusing on crafting user-first, scalable software systems and leading digital innovation.
-
-**Lead Developer @ Prolithica Technologies:** I manage the delivery of robust and future-proof solutions, ranging from web and mobile application development to cloud infrastructure and AI integration.
+**Lead Developer @ Prolithica Technologies:** I manage the delivery of robust and future-proof solutions, ranging from Enterprise systems, web and mobile application development to cloud infrastructure and AI integration.
 
 **CEO & Product Lead @ Word and Learn:** I define comprehensive product strategies and oversee the creation of intuitive user interfaces for educational technology solutions.
+
+**Developer @ BITZ-ITC:** I served as a lead developer, focusing on crafting user-first, scalable software systems and leading digital innovation.
 
 **Market Research Extern @ Beats by Dre:** I conducted market analysis and consumer research to inform product strategy and brand positioning.
 
